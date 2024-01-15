@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✧˖*°࿐  Hi there, I'm Lawrence 👋 ✧˖*°࿐
 
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=45b787&lines=welcome+to+my+GitHub"> 
