@@ -1,8 +1,8 @@
 ### ✧˖*°࿐  Hi there, I'm Lawrence 👋 ✧˖*°࿐
 
-<div align="center">
+<h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=45b787&lines=welcome+to+my+GitHub"> 
-</div>
+</h1>
 <!--
 **lawrenceli7/lawrenceli7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
