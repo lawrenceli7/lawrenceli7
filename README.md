@@ -1,12 +1,14 @@
 <h1 align="center">✧˖*°࿐  Hi there, I'm Lawrence 👋 ✧˖*°࿐</h1> 
 
-<div align="center">
- <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=45b787&lines=welcome+to+my+GitHub"> 
+<div align="right">
+ <img src="https://readme-typing-svg.herokuapp.com?color=45b787&lines=welcome+to+my+GitHub"> 
 </div>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lawrenceli7&show_icons=true&locale=en&layout=compact" alt="lawrenceli7" />
 </div>
+
+<br />
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawrenceli7&" alt="lawrenceli7" />
