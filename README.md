@@ -1,6 +1,6 @@
 <h1 align="left">✧˖*°࿐  Hi there, I'm Lawrence 👋 ✧˖*°࿐</h1> 
 
-<div align="center">
+<div align="left">
  <img src="https://readme-typing-svg.herokuapp.com?color=45b787&lines=welcome+to+my+GitHub"> 
 </div>
 
